@@ -1,5 +1,0 @@
-Device: Microphone USB Audio CODEC  {1d620b2c-da49-4804-a0a6-2e9598fcead2}
-Filter: ON HP Fc 80 Hz
-Filter: ON PK Fc 115 Hz Gain -1 dB Q 15
-Filter: ON LSC Fc 5000 Hz Gain -1 dB Q 0.5
-VSTPlugin: Library "C:\Program Files\VSTPlugins\LoudMax64.dll" Thresh 0.899386 Output 0.932045 "Fader Link" 0 "ISP Detection" 0 "Large GUI" 0
