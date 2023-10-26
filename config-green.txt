@@ -1,6 +1,0 @@
-Device: Microphone STUDIO M PRO {de80c03a-d4a2-4712-b1f8-34a728479230}
-Filter: ON PK Fc 115 Hz Gain -2 dB Q 15
-Filter: ON HP Fc 105 Hz
-Filter: ON LS Fc 500 Hz Gain -3 dB
-Filter: ON PK Fc 4000 Hz Gain -2 dB Q 1
-VSTPlugin: Library "C:\Program Files\VSTPlugins\FabFilter Pro-C x64.dll" Characteristic 0 Threshold 1 "Output Level" 0.472222 Ratio 0 "Knee Shape" 0 "Input signal" 0 Attack 0 "Low Pass Frequency" 1 "Auto Release Speed" 0.5 "Left Side Chain Mix" 0.5 Release 0 "Input Level" 0.666667 "Input Panning" 0.5 "Left Side Chain Level" 0.5 "Interface: Opacity Input" 0.5 "Right Side Chain Level" 0.5 "Right Side Chain Mix" 0.5 "Auto Gain" 1 "Output Panning" 0.5 "Dry Level" 0 "Dry Panning" 0.5 "Auto Release" 0 "High Pass Frequency" 0 "Audition Side Chain" 0 "Interface: Display Enabled" 1 "Channel Processing" 0 "Receive Midi" 1 "Expert Mode" 0 "Interface: Opacity Gain Change" 1 "Interface: Opacity Output" 0.5 "Interface: Meter Scale" 0
