@@ -1,4 +1,4 @@
 Device: Microphone STUDIO M PRO {de80c03a-d4a2-4712-b1f8-34a728479230}
 Preamp: 10 dB
-Filter: ON PK Fc 115 Hz Gain -1.5 dB Q 15
-Filter: ON HP Fc 120 Hz
+Filter: ON PK Fc 115 Hz Gain -2 dB Q 15
+Filter: ON HP Fc 115 Hz
